@@ -1,0 +1,9 @@
+.divContainer{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border: 2px solid black;
+    }
+.imag{
+    margin-top: 20px;
+}
